@@ -1,0 +1,20 @@
+h1 {
+    text-align:center;
+    max-width:768px;
+    width:100%;
+    margin:auto;
+    font-size:24px;
+}
+.mode {
+    background-color:green;
+    color:white;
+}
+#transportation-mode-form {
+    margin-left:80%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:24px;
+}
+#add-topic {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:24px;
+}
