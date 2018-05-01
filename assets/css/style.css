@@ -4,17 +4,29 @@ h1 {
     width:100%;
     margin:auto;
     font-size:24px;
+    padding:24px;
 }
 .mode {
     background-color:green;
     color:white;
 }
+.gif {
+    padding:10px;
+}
 #transportation-mode-form {
-    margin-left:80%;
+    margin-top:40px;
+    margin-left:70%;
+    position:fixed; top:2%;right:10%;
     font-family:Arial, Helvetica, sans-serif;
-    font-size:24px;
+    font-size:20px;
 }
 #add-topic {
     font-family:Arial, Helvetica, sans-serif;
-    font-size:24px;
+    font-size:20px;
+}
+.container {
+    max-width:1080px;
+    margin:auto;
+    min-height: 80%;
+    background-image:url("../images/circles-dark.png");
 }
